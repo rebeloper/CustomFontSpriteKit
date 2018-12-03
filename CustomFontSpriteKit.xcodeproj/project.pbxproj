@@ -15,6 +15,7 @@
 		C9A8CD7F21B542D000C18253 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9A8CD7D21B542D000C18253 /* Main.storyboard */; };
 		C9A8CD8121B542D000C18253 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9A8CD8021B542D000C18253 /* Assets.xcassets */; };
 		C9A8CD8421B542D000C18253 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9A8CD8221B542D000C18253 /* LaunchScreen.storyboard */; };
+		C9A8CD8C21B542F400C18253 /* KOMTIT__.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C9A8CD8B21B542F400C18253 /* KOMTIT__.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		C9A8CD8021B542D000C18253 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9A8CD8321B542D000C18253 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9A8CD8521B542D000C18253 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9A8CD8B21B542F400C18253 /* KOMTIT__.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = KOMTIT__.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 		C9A8CD7221B542D000C18253 /* CustomFontSpriteKit */ = {
 			isa = PBXGroup;
 			children = (
+				C9A8CD8B21B542F400C18253 /* KOMTIT__.ttf */,
 				C9A8CD7321B542D000C18253 /* AppDelegate.swift */,
 				C9A8CD7521B542D000C18253 /* GameScene.sks */,
 				C9A8CD7721B542D000C18253 /* Actions.sks */,
@@ -133,6 +136,7 @@
 			files = (
 				C9A8CD7F21B542D000C18253 /* Main.storyboard in Resources */,
 				C9A8CD7621B542D000C18253 /* GameScene.sks in Resources */,
+				C9A8CD8C21B542F400C18253 /* KOMTIT__.ttf in Resources */,
 				C9A8CD8121B542D000C18253 /* Assets.xcassets in Resources */,
 				C9A8CD8421B542D000C18253 /* LaunchScreen.storyboard in Resources */,
 				C9A8CD7821B542D000C18253 /* Actions.sks in Resources */,

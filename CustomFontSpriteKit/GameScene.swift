@@ -9,6 +9,10 @@
 import SpriteKit
 import GameplayKit
 
+struct Fonts {
+    static let komikaTitle = "KomikaTitle"
+}
+
 class GameScene: SKScene {
     
     private var label : SKLabelNode?
@@ -21,6 +25,7 @@ class GameScene: SKScene {
         if let label = self.label {
             label.alpha = 0.0
             label.run(SKAction.fadeIn(withDuration: 2.0))
+            label.fontName = Fonts.komikaTitle
         }
         
         // Create shape node to use during mouse interaction
